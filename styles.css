@@ -1,0 +1,10 @@
+
+body {
+    font-family: "Arial";
+    text-align: center;
+    font-weight: normal;
+}
+
+div {
+    border: 4px solid deeppink;
+}
